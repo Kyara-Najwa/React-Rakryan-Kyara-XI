@@ -1,9 +1,9 @@
 import React from "react";
 import human from "../assets/human.png";
 import facebook from "../assets/Facebook.svg";
-import instagram from "../assets/instagram.svg";
-import linkedin from "../assets/linkedin.svg";
-import twitter from "../assets/twitter.svg";
+import instagram from "../assets/Instagram.svg";
+import linkedin from "../assets/Linkedin.svg";
+import twitter from "../assets/Twitter.svg";
 
 const Header = () => {
   return (
